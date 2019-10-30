@@ -1,4 +1,4 @@
-# waviz
+# Waviz
 
 Prototype for analyzing spatio-temporal data based on the graph wavelet transform. 
 
